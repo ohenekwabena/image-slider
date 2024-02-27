@@ -7,5 +7,5 @@ Image files are fetched from an endpoint with a derived API
 
 ## Acknowledgment
 
-Shout out to unsplash[https://unsplash.com/] for the images and endpoint for data fetching
+Shout out to unsplash [https://unsplash.com/] for the images and endpoint for data fetching
 Thank you to the styled-components [https://www.styled-components.com/] for their amazing work
