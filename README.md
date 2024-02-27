@@ -1,4 +1,4 @@
-# IMAGE SLIDER COMPONENT
+## Image Slider Component
 
 I created a basic image slider component with styled components.
 I have decided to use parcel for my mini-projects since they are lightweight
